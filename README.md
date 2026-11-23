@@ -1,6 +1,6 @@
 > **Note for Reviewers / Researchers**  
 > This repository hosts the public user guide and release notes for **Skylark Rita**.  
-> The runtime source code is maintained privately for operational and API security. See [ARCHITECTURE.md](./ARCHITECTURE.md) for the system design and beta telemetry summary.
+> The runtime source code is maintained privately for operational and API security. See [ARCHITECTURE.md](./docs/ARCHITECTURE.md) for the system design and beta telemetry summary.
 
 <div align="center">
 
