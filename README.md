@@ -115,5 +115,6 @@ GitHub Releases를 리타의 패치노트로 사용합니다. 새로운 기능�
 
 리타가 질문을 잘 이해하고 필요한 답을 가져올 수 있도록 계속 다듬어보겠습니다. 써보시고 편하게 이야기해 주세요!
 
-
-Note: This repository hosts the public user guide and release notes for Skylark Rita. The runtime source code is maintained privately for operational/API security.
+> **Note for Reviewers / Researchers**  
+> This repository hosts the public user guide and release notes for **Skylark Rita**.  
+> The runtime source code is maintained privately for operational and API security. See [ARCHITECTURE.md](./ARCHITECTURE.md) for the system design and beta telemetry summary.
