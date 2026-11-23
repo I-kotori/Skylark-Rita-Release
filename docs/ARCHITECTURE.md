@@ -5,7 +5,7 @@
 ## Hybrid Routing Architecture
 
 <p align="center">
-  <img src="./docs/rita_architecture.png" alt="Skylark Rita Hybrid Routing Architecture" width="540" />
+  <img src="./rita_architecture.png" alt="Skylark Rita Hybrid Routing Architecture" width="540" />
 </p>
 
 - **Ingress & Gateway**: KakaoTalk (Android MessengerBotR) → Raspberry Pi Gateway → FastAPI Operations Adapter (request validation, deduplication, job queue)
