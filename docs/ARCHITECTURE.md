@@ -18,6 +18,6 @@
 
 ## 1st Beta Telemetry & Evaluation Notes
 
-- **1,065** logged beta-test requests in SQLite telemetry
+- As of November 8, 2026, Rita had logged 791 production requests, of which 32 were recorded as errors.
 - **109 ms** median latency across **236** direct-routed queries (bypassing LLM calls)
 - **~200** deduplicated real user queries audited to diagnose silent failures (execution success vs. user-perceived task failure), argument extraction edge cases, external API maintenance propagation, and persona consistency
